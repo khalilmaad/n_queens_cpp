@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1792591135 source:c:\users\baye\khalil\programs\cpp\8queens\echiquier.cpp
+	"Echiquier.h"
+	<iostream>
+	<algorithm>
+	<sstream>
+	<iomanip>
+	<cstdlib>
+
+1792591124 c:\users\baye\khalil\programs\cpp\8queens\echiquier.h
+	<vector>
+	<string>
+	<chrono>
+	<cstdint>
+
+1792591236 source:c:\users\baye\khalil\programs\cpp\8queens\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Echiquier.h"
+
